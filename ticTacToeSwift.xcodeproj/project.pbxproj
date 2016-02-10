@@ -12,6 +12,9 @@
 		C9D315F81C4197CE009B83A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D315F61C4197CE009B83A5 /* Main.storyboard */; };
 		C9D315FA1C4197CE009B83A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9D315F91C4197CE009B83A5 /* Assets.xcassets */; };
 		C9D315FD1C4197CE009B83A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9D315FB1C4197CE009B83A5 /* LaunchScreen.storyboard */; };
+		C9D316071C4197DF009B83A5 /* board.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D316041C4197DF009B83A5 /* board.png */; };
+		C9D316081C4197DF009B83A5 /* cross.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D316051C4197DF009B83A5 /* cross.png */; };
+		C9D316091C4197DF009B83A5 /* nought.png in Resources */ = {isa = PBXBuildFile; fileRef = C9D316061C4197DF009B83A5 /* nought.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +25,9 @@
 		C9D315F91C4197CE009B83A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9D315FC1C4197CE009B83A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9D315FE1C4197CE009B83A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9D316041C4197DF009B83A5 /* board.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = board.png; sourceTree = "<group>"; };
+		C9D316051C4197DF009B83A5 /* cross.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cross.png; sourceTree = "<group>"; };
+		C9D316061C4197DF009B83A5 /* nought.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nought.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +66,9 @@
 				C9D315F91C4197CE009B83A5 /* Assets.xcassets */,
 				C9D315FB1C4197CE009B83A5 /* LaunchScreen.storyboard */,
 				C9D315FE1C4197CE009B83A5 /* Info.plist */,
+				C9D316041C4197DF009B83A5 /* board.png */,
+				C9D316051C4197DF009B83A5 /* cross.png */,
+				C9D316061C4197DF009B83A5 /* nought.png */,
 			);
 			path = ticTacToeSwift;
 			sourceTree = "<group>";
@@ -122,6 +131,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C9D316081C4197DF009B83A5 /* cross.png in Resources */,
+				C9D316071C4197DF009B83A5 /* board.png in Resources */,
+				C9D316091C4197DF009B83A5 /* nought.png in Resources */,
 				C9D315FD1C4197CE009B83A5 /* LaunchScreen.storyboard in Resources */,
 				C9D315FA1C4197CE009B83A5 /* Assets.xcassets in Resources */,
 				C9D315F81C4197CE009B83A5 /* Main.storyboard in Resources */,
